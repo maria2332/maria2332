@@ -29,7 +29,8 @@ I combine <b>data science</b>, <b>machine learning</b> and <b>AI</b> with my pas
   <table>
     <tr>
       <td align="center">
-        <img src="https://i.imgur.com/Z4RrKWe.gif" width="200" alt="Facial Expression AI"/>
+        <img src="<img width="1000" height="668" alt="image" src="https://github.com/user-attachments/assets/0b42302d-6f96-4f36-89e9-f598ca573597" />
+" width="200" alt="Facial Expression AI"/>
         <br><b>Facial Expression AI</b>
         <br>Neural network detecting fear & surprise using Python & PyTorch
       </td>
