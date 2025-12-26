@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm María Arribas Ballesteros</h2>
+<h2 align="left">Hi 👋! I'm María Arribas</h2>
 <p>
 A Mathematical Engineering student specializing in <b>Artificial Intelligence</b> from Madrid, Spain.  
 I combine <b>data science</b>, <b>machine learning</b> and <b>AI</b> with my passion for sports, especially <b>padel 🎾</b>.
@@ -29,20 +29,16 @@ I combine <b>data science</b>, <b>machine learning</b> and <b>AI</b> with my pas
   <table>
     <tr>
       <td align="center">
-        <img src="<img width="1000" height="668" alt="image" src="https://github.com/user-attachments/assets/0b42302d-6f96-4f36-89e9-f598ca573597" />
-" width="200" alt="Facial Expression AI"/>
         <br><b>Facial Expression AI</b>
         <br>Neural network detecting fear & surprise using Python & PyTorch
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/NsFfVQv.gif" width="200" alt="Padel Intelligence"/>
         <br><b>Padel Intelligence</b>
         <br>Real-time AI system for shot strategy & player positioning
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/0bQy6xx.gif" width="200" alt="Data Analysis Projects"/>
         <br><b>Data Analysis Projects</b>
-        <br>Predictive modeling and statistical analysis using Python & R
+        <br>Predictive modeling and statistical analysis using Python, Julia & R
       </td>
     </tr>
   </table>
@@ -68,8 +64,7 @@ I combine <b>data science</b>, <b>machine learning</b> and <b>AI</b> with my pas
 
 ---
 
-### 📫 Connect with me
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/maría-arribas-ballesteros" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" />
   </a>
@@ -79,7 +74,7 @@ I combine <b>data science</b>, <b>machine learning</b> and <b>AI</b> with my pas
   <a href="https://www.instagram.com/maria.ab_2332/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" />
   </a>
-</div>
+</p>
 
 ---
 
