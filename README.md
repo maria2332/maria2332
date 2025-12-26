@@ -58,7 +58,6 @@ I combine <b>data science</b>, <b>machine learning</b> and <b>AI</b> with my pas
 
 ### 📈 GitHub Stats
 
----
 <p align="center">
   <a href="https://www.linkedin.com/in/maría-arribas-ballesteros" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
