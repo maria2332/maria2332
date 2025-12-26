@@ -80,4 +80,3 @@ I combine <b>data science</b>, <b>machine learning</b> and <b>AI</b> with my pas
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maria2332/maria2332/output/snake.svg" alt="Snake animation" width="100%" />
