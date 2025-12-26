@@ -64,10 +64,6 @@ I combine <b>data science</b>, <b>machine learning</b> and <b>AI</b> with my pas
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 
-  <a href="mailto:maria.ab.2332@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-
   <a href="https://www.instagram.com/maria.ab_2332/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35"/>
   </a>
