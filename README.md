@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm María Arribas</h2>
 <p>
-A Mathematical Engineering student specializing in <b>Artificial Intelligence</b> from Madrid, Spain.  
+A Mathematical Engineering specializing in <b>Artificial Intelligence</b> from Madrid, Spain.  
 I combine <b>data science</b>, <b>machine learning</b> and <b>AI</b> with my passion for sports, especially <b>padel 🎾</b>.
 </p>
 
